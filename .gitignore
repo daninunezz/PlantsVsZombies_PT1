@@ -1,3 +1,6 @@
+# ignore whole bin
+bin/
+
 # Compiled class file
 *.class
 
